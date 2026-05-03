@@ -1,6 +1,4 @@
-@@ -1 +1,14 @@
-# sistema_fj
-# Software FJ
+# Software IGCSR
 
 Sistema Integral de Gestión de Clientes, Servicios y Reservas.
 
