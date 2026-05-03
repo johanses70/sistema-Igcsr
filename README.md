@@ -1,14 +1,16 @@
-Software IGCSR
+@@ -1 +1,14 @@
+# sistema_fj
+# Software FJ
+
 Sistema Integral de Gestión de Clientes, Servicios y Reservas.
 
-Ejecutar
-
-
+## Ejecutar
+```bash
 python main.py
+```
 
-Características
-
-POO avanzado
-Excepciones personalizadas
-Explotación florestal
-Simulaciones
+## Características
+- POO avanzada
+- Excepciones personalizadas
+- Logging
+- Simulaciones
